@@ -1,0 +1,4 @@
+app_annotations:
+    resource: "@AppBundle/Controller"
+    type: annotation
+
